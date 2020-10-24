@@ -1,0 +1,7 @@
+<div #containerResposta class="container-resposta">
+    <div *ngFor="let resposta of speechData; let last = last;">
+        <p class="line typing-animation" 
+        [ngClass]="{'inactive': !last, 'active': last}">{{resposta}}</p>
+    </div>
+    <!-- <p class="active line typing-animation">Olá, eu sou Willian Justen! =)</p> -->
+</div>

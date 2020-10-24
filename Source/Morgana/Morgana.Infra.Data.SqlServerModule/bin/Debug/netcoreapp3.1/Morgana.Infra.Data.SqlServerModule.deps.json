@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Morgana.Infra.Data.SqlServerModule/1.0.0": {
+        "runtime": {
+          "Morgana.Infra.Data.SqlServerModule.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Morgana.Infra.Data.SqlServerModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

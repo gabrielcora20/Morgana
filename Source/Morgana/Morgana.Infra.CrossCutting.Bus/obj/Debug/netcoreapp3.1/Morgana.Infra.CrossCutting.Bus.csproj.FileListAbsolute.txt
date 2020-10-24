@@ -1,0 +1,14 @@
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Bus.deps.json
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Bus.dll
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Bus.csprojAssemblyReference.cache
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Bus.pdb
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\Morgana.Domain.Core.dll
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\Morgana.Domain.dll
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\Morgana.Domain.pdb
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\Morgana.Domain.Core.pdb
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Bus.dll
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Bus.pdb

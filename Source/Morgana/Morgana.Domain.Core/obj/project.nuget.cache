@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kU5OHEHyubJaXFR1xoANIHma9X1e2wIR1UL3mpaDMNW81QjsYAPTQQm6wkncBrpqwD+g4w/tY3faf2YmoOqxWw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Morgana\\Source\\Morgana\\Morgana.Domain.Core\\Morgana.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\mongodb.bson\\2.11.3\\mongodb.bson.2.11.3.nupkg.sha512"
+  ],
+  "logs": []
+}

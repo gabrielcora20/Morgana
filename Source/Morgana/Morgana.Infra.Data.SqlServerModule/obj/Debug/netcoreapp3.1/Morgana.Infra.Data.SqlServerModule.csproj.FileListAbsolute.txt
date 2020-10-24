@@ -1,0 +1,9 @@
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.Data.SqlServerModule\bin\Debug\netcoreapp3.1\Morgana.Infra.Data.SqlServerModule.deps.json
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.Data.SqlServerModule\bin\Debug\netcoreapp3.1\Morgana.Infra.Data.SqlServerModule.dll
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.Data.SqlServerModule\bin\Debug\netcoreapp3.1\Morgana.Infra.Data.SqlServerModule.pdb
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.Data.SqlServerModule\obj\Debug\netcoreapp3.1\Morgana.Infra.Data.SqlServerModule.csprojAssemblyReference.cache
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.Data.SqlServerModule\obj\Debug\netcoreapp3.1\Morgana.Infra.Data.SqlServerModule.AssemblyInfoInputs.cache
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.Data.SqlServerModule\obj\Debug\netcoreapp3.1\Morgana.Infra.Data.SqlServerModule.AssemblyInfo.cs
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.Data.SqlServerModule\obj\Debug\netcoreapp3.1\Morgana.Infra.Data.SqlServerModule.csproj.CoreCompileInputs.cache
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.Data.SqlServerModule\obj\Debug\netcoreapp3.1\Morgana.Infra.Data.SqlServerModule.dll
+C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.Data.SqlServerModule\obj\Debug\netcoreapp3.1\Morgana.Infra.Data.SqlServerModule.pdb

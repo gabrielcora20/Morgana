@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hLqOmc9WsP7k4+AQo/2mJC7HPwpcPUs4MIGpqXCKHcl1EB8gd+c4HP17oshkBQ0gX4YB3KWxNDiWlZJqcvfH7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Morgana\\Source\\Morgana\\Morgana.Infra.CrossCutting.Bus\\Morgana.Infra.CrossCutting.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\mongodb.bson\\2.11.3\\mongodb.bson.2.11.3.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\netdevpack\\1.1.0\\netdevpack.1.1.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
