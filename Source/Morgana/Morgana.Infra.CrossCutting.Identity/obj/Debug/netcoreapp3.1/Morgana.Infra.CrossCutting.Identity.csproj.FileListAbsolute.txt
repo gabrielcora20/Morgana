@@ -1,9 +1,0 @@
-C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Identity\bin\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Identity.deps.json
-C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Identity\bin\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Identity.dll
-C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Identity\bin\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Identity.pdb
-C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
-C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Identity.AssemblyInfo.cs
-C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Identity.dll
-C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Identity.pdb
-C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Identity.csprojAssemblyReference.cache
-C:\Projetos\Morgana\Source\Morgana\Morgana.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\Morgana.Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
