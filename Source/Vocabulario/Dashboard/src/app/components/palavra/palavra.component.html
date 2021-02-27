@@ -1,0 +1,28 @@
+<table mat-table [dataSource]="palavras" matSort class="mat-elevation-z8" *ngIf="palavras">
+    <!-- Name Column -->
+    <ng-container matColumnDef="denominacao">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Denominação </th>
+        <td mat-cell *matCellDef="let element"> {{element.denominacao}} </td>
+    </ng-container>
+
+    <!-- Position Column -->
+    <ng-container matColumnDef="classeGramatical">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Classe Gramatical </th>
+        <td mat-cell *matCellDef="let element"> {{element.classeGramatical}} </td>
+    </ng-container>
+
+    <!-- Weight Column -->
+    <ng-container matColumnDef="origem">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Origem </th>
+        <td mat-cell *matCellDef="let element"> {{element.origem}} </td>
+    </ng-container>
+
+    <!-- Symbol Column -->
+    <ng-container matColumnDef="significado">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Significado </th>
+        <td mat-cell *matCellDef="let element"> {{element.significado}} </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+</table>
