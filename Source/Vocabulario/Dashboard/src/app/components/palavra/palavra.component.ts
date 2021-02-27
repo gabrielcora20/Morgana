@@ -15,6 +15,7 @@ export class PalavraComponent implements OnInit {
   constructor(private service: AppService) { }
 
   ngOnInit(): void {
+    //
     this.palavras = this.service.obtemPalavras();
   }
 
